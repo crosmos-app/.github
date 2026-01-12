@@ -2,7 +2,9 @@
 
 ### `Crosmos`
 
-Crosmos turns your files into searchable memories, letting you find what you need even when you don’t remember where it is
+Crosmos turns your files into searchable memories, so you can find what you need, even when you don’t remember where it is.
+Instantly summon Crosmos with a shortcut and stop wasting time juggling apps or digging through your disk.
+
 
 <a href="https://docs.crosmos.app/contribute/translation">Contribute</a> ·
 <a href="https://www.crosmos.app">Website</a> ·
