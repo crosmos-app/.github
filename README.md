@@ -1,6 +1,6 @@
 <img src="./logo.png" align="left" width="200"/>
 
-## `Crosmos`
+### `Crosmos`
 
 Crosmos turns your files into searchable memories, letting you find what you need even when you don’t remember where it is
 
