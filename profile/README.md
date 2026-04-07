@@ -6,10 +6,8 @@ Crosmos turns your files into searchable memories, so you can find what you need
 Instantly summon Crosmos with a shortcut and stop wasting time juggling apps or digging through your disk.
 
 
-<a href="https://docs.crosmos.app/contribute/translation">Contribute</a> ·
-<a href="https://www.crosmos.app">Website</a> ·
-<a href="https://docs.crosmos.app">Docs</a> ·
-<a href="https://www.crosmos.app/download">Download</a> ·
-<a href="https://www.crosmos.app/release-notes/latest">Release Notes</a>
+<a href="https://docs.crosmos.dev/contribute/translation">Contribute</a> ·
+<a href="https://www.crosmos.dev">Website</a> ·
+<a href="https://docs.crosmos.dev">Docs</a>
 
-[![Status badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fuptime.crosmos.app%2Fshield-badges%2Fstatus.json&style=for-the-badge)](https://uptime.crosmos.app)
+[![Status badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fuptime.crosmos.dev%2Fshield-badges%2Fstatus.json&style=for-the-badge)](https://uptime.crosmos.dev)
