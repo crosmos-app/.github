@@ -2,8 +2,7 @@
 
 ### `Crosmos`
 
-Crosmos turns your files into searchable memories, so you can find what you need, even when you don’t remember where it is.
-Instantly summon Crosmos with a shortcut and stop wasting time juggling apps or digging through your disk.
+Give your agents reliable memory and the right context, with enterprise APIs, MCP integration, and flexible plugins and connectors
 
 
 <a href="https://docs.crosmos.dev/contribute/translation">Contribute</a> ·
