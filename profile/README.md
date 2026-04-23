@@ -1,4 +1,4 @@
-<img src="./logo.png" align="left" width="200"/>
+<img src="./logo2.png" align="left" width="200"/>
 
 ### `Crosmos`
 
