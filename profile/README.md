@@ -2,7 +2,7 @@
 
 ### `Crosmos`
 
-Give your agents reliable memory and the right context, with enterprise APIs, MCP integration, and flexible plugins and connectors
+Give your agents reliable organizational memory and the right context, with enterprise APIs, MCP integration, and flexible plugins and connectors.
 
 
 <a href="https://crosmos.dev">Website</a> ·
